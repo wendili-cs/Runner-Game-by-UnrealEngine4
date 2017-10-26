@@ -20,6 +20,8 @@ Also, in the game, it contained randomly road generator, the coin collect system
 
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/214.gif?raw=true )
  
+ *********************
+ 
  ## How to use
  
  - ...unzip and run `` 跑酷.exe ``
